@@ -2,7 +2,7 @@
 
 #### _A web application form. Exercise to use objects in Javascript; week four of Epicodus, 10/31/2016_
 
-#### By _**Tracie Weitzman and Michael Andrade**_
+#### By _**Erica Nafziger and Michael Andrade**_
 
 ## Setup/Installation Requirements
 
@@ -10,7 +10,7 @@
 
 ## Support and contact details
 
-_Contact me on Github at weitzwoman or andrademichael_
+_Contact me on Github at andrademichael_
 
 ## Technologies Used
 
@@ -35,4 +35,4 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with the Address Book. If not, see <http://www.gnu.org/licenses/>.*
 
-Copyright (c) 2016 **_Tracie Weitzman, Michael Andrade_**
+Copyright (c) 2016 **_Erica Nafziger, Michael Andrade_**
